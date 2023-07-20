@@ -19,3 +19,5 @@
 </div>
 
 ###
+
+<p>How to Install: Download Project, Extract Project, Delete License and Readme File (This File) , Open the PortalRadio.exe and enjoy! Happy Listening</p>
